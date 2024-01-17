@@ -1,3 +1,5 @@
+Copyright (c) [2023] [Amirhossein Karimi]. All rights reserved.
+
 # student-success
 ### Predicting students' dropout and academic success 
 
